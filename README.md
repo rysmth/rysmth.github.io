@@ -36,11 +36,11 @@ Tools | Technical | Interpersonal
 Unreal Engine | `Prototyping` | Leadership
 Autodesk Maya | 3D Modelling | `Problem solving`
 Blender | `Code optimisation` | Team management 
-Adobe Photoshop | 2D & 3D Animation | `Conflict resolution`
+Adobe Photoshop | `Version control` | `Conflict resolution`
 Substance Painter | 2D & 3D Rigging | Clear communication
 `Visual Studio` | `Debugging` | Presenting
 Trello | Game design documentation | Attentive listening
-Milanote | UV Unwrapping | Scope management
+Milanote | `Object-Oriented programming` | Scope management
 Microsoft Teams | `JSON` | `Feature prioritising`
 
 ### Certifications
