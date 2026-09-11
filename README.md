@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="headshot-image/headshot-image.png" width="250" height="250" align="left">
+<img src="headshot-image/headshot-image.png" width="210" height="210" align="left">
 
 Hi! my name is **Ryan Smith (he/him)**.
 I am an incredibly ambitious First Class Honours graduate in Game Design and Production that is passionate about continuous self-improvement, learning and iteration with the focus on contributing to game development via clean, efficient code.
