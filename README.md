@@ -17,6 +17,8 @@ To unwind, I love to listen to indie pop, read fiction, mindlessly play 3D actio
 ### Projects
 Each of my projects includes a dedicated repository with a detailed description, relevant scripts, and a link to its Google Play, Steam or itch.io store page. [*Link to GitHub profile*](https://github.com/rysmth)
 
+<img src="project-previews/zx-tetrad-snapshot-collage.jpg" width="250" height="250">
+
 ## Education
 **Bachelor of Arts with Honours in Game Design and Production** — University of Cumbria (2026) ***First Class Honours***
 
