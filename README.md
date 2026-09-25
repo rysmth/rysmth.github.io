@@ -9,15 +9,17 @@ I excel in collaborating within cross-disciplinary teams which can be attributed
 
 Furthermore I'm resilient, adaptable, actively pursuing an onsite or remote gameplay programmer role, while always available for collaboration.
 
-Send me a message on LinkedIn. References are also readily available. [*Link to LinkedIn profile*](https://www.linkedin.com/in/rysmth/)
+Send me a message on [**LinkedIn**](https://www.linkedin.com/in/rysmth/). References are also readily available.
 
 ### Pastimes
 To unwind, I love to listen to indie pop, read fiction, mindlessly play 3D action-platformers or board games with an iced vanilla latte.
 
 ### Projects
-Each of my projects includes a dedicated repository with a detailed description, relevant scripts, and a link to its Google Play, Steam or itch.io store page. [*Link to GitHub profile*](https://github.com/rysmth)
+Each of my projects includes a dedicated [**GitHub**](https://github.com/rysmth) repository with a detailed description, relevant scripts, and a link to its Google Play, Steam or itch.io store page.
 
-<img src="project-previews/zx-tetrad-snapshot-collage.jpg" width="250" height="250" align="left"> <img src="project-previews/gonk-gameplay-snapshot.jpg" width="250" height="250" align="middle">
+| [**ZX Tetrad**](https://github.com/rysmth/ZX-Tetrad) | [**Gonk**](https://github.com/rysmth/Gonk) |
+ --- | --- |
+| <img src="project-previews/zx-tetrad-snapshot-collage.jpg" width="250" height="250" align="left"> | <img src="project-previews/gonk-gameplay-snapshot.jpg" width="250" height="250" align="middle"> |
 
 ## Education
 **Bachelor of Arts with Honours in Game Design and Production** — University of Cumbria (2026) ***First Class Honours***
@@ -42,11 +44,11 @@ Adobe Photoshop | `Version control` | `Conflict resolution`
 Substance Painter | 2D & 3D Rigging | Clear communication
 `Visual Studio` | `Debugging` | Presenting
 Trello | Game design documentation | Attentive listening
-Milanote | `Object-Oriented programming` | Scope management
+Miro | `Object-Oriented programming` | Scope management
 Microsoft Teams | `JSON` | `Feature prioritising`
 
 ### Certifications
-**Unity Junior Programmer** — Unity (2026) [*Link to credential*](https://www.credly.com/badges/1b9b502f-a29c-4f17-b061-b3f1579f3317/linked_in_profile)
+**Unity Junior Programmer** — Unity (2026) [**Credential**](https://www.credly.com/badges/1b9b502f-a29c-4f17-b061-b3f1579f3317/linked_in_profile)
 
 ## Work Experience 
 **INFINITY27** (2026) 
