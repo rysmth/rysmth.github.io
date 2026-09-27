@@ -17,9 +17,13 @@ To unwind, I love to listen to indie pop, read fiction, mindlessly play 3D actio
 ### Projects
 Each of my projects includes a dedicated [**GitHub**](https://github.com/rysmth) repository with a detailed description, relevant scripts, and a link to its Google Play, Steam or itch.io store page.
 
-| [**ZX Tetrad**](https://github.com/rysmth/ZX-Tetrad) | [**Gonk**](https://github.com/rysmth/Gonk) |
- --- | --- |
-| <img src="project-previews/zx-tetrad-snapshot-collage.jpg" width="250" height="250" align="left"> | <img src="project-previews/gonk-gameplay-snapshot.jpg" width="250" height="250" align="middle"> |
+[**ZX Tetrad**](https://github.com/rysmth/ZX-Tetrad)
+
+<img src="project-previews/zx-tetrad-snapshot-collage.jpg" width="250" height="250">
+
+[**Gonk**](https://github.com/rysmth/Gonk)
+
+<img src="project-previews/gonk-gameplay-snapshot.jpg" width="250" height="250"> 
 
 ## Education
 **Bachelor of Arts with Honours in Game Design and Production** — University of Cumbria (2026) ***First Class Honours***
