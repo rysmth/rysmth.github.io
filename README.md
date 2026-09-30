@@ -19,9 +19,13 @@ Each of my projects includes a dedicated [**GitHub**](https://github.com/rysmth)
 
 [**ZX Tetrad**](https://github.com/rysmth/ZX-Tetrad)
 
+ZX Tetrad is an old-school compilation of four original, ZX Spectrum inspired micro-games.
+
 <img src="project-previews/zx-tetrad-snapshot-collage.jpg" width="250" height="250">
 
 [**Gonk**](https://github.com/rysmth/Gonk)
+
+Gonk is an original local four player party game, where you can battle up to three friends dressed in a variety of ten costumes within two uniquely themed levels.
 
 <img src="project-previews/gonk-gameplay-snapshot.jpg" width="250" height="250"> 
 
