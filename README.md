@@ -29,6 +29,12 @@ Gonk is an original local four player party game, where you can battle up to thr
 
 <img src="project-previews/gonk-gameplay-snapshot.jpg" width="250" height="250"> 
 
+[**Parking Pots**](https://github.com/rysmth/Parking-Pots)
+
+Parking Pots is a casual single player mobile game, reliant on motion controls. There are three stages that vary in difficulty and three unlockable costumes.
+
+<img src="project-previews/parking-pots-gameplay-snapshot.jpg" width="250" height="250"> 
+
 ## Education
 **Bachelor of Arts with Honours in Game Design and Production** — University of Cumbria (2026) ***First Class Honours***
 
